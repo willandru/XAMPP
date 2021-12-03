@@ -1,2 +1,8 @@
-<h1> HOLA WORLD </h1>
-<h1> HOLA MUNDO </h1>
+<?php  include("db.php") ?>
+
+<?php  include("includes/header.php") ?>
+
+    <h1> Hello World  INDEX</h1>
+
+
+<?php  include("includes/footer.php") ?>
